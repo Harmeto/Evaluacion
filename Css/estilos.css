@@ -68,7 +68,7 @@ button {
 
 #tarjeta {
     background: gray;
-    background: url(Img/fondo1.jpg), linear-gradient(0deg, gray 0%, black 57%);
+    background: url(/Img/fondo1.jpg), linear-gradient(0deg, gray 0%, black 57%);
     background-repeat: repeat-x;
     background-size: 75%;
     margin-top: -20px;

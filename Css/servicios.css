@@ -1,0 +1,22 @@
+p {
+    display: grid;
+    justify-items: center;
+}
+
+.compraventa p {
+    color: #ffffff;
+    text-align: center;
+    justify-content: center;
+}
+
+.compraventa img {
+    height: 250px;
+    width: 400px;
+}
+
+#tarjeta {
+    background: gray;
+    background: url(/Img/fondo1.jpg), linear-gradient( 0deg, gray 0%, black 57%);
+    background-repeat: repeat-x;
+    margin-top: -20 px;
+}
